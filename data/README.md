@@ -8,14 +8,14 @@ The data used in this project consisted in:
 	-	Forest ending
 	-	Residential area
 
-![AudioMoths sites. From left to right: Agricultural plot, riverside, forest ending and residential area.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/4369dc72e79f4c7eac8cb44442f43e0fddd62c80/imgs/audiomoths_sites.png)
+![AudioMoths sites. From left to right: Agricultural plot, riverside, forest ending and residential area.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/4369dc72e79f4c7eac8cb44442f43e0fddd62c80/imgs/audiomoths_sites.png)AudioMoths sites. From left to right: Agricultural plot, riverside, forest ending and residential area.
 	
 2.	Three Terrestrial Laser Scanning ([TLS](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing/research/sensing-measuring/terrestrial-laser-scanning-research.htm)) LiDAR point clouds in three forest conditions:
 	-	Forest entrance
 	-	Mature forest
 	-	Forest ending
 
-![Mature forest LiDAR point clouds examples.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/877525c9575d31ac824eaf4f3b9f38b13ee87f3b/imgs/example_point_cloud.png)
+![Mature forest LiDAR point clouds examples.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/877525c9575d31ac824eaf4f3b9f38b13ee87f3b/imgs/example_point_cloud.png)Mature forest LiDAR point clouds examples.
 
 3. Spatial data related to:
 
@@ -23,7 +23,7 @@ The data used in this project consisted in:
 	-	LiDAR scaners sites
 	-	Point of interest
 	-	
-![Sites map.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/19ea7b354e19487c91ab2925ec59605304a8512a/imgs/sites_map.png)
+![Sites map.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/19ea7b354e19487c91ab2925ec59605304a8512a/imgs/sites_map.png)Sites map.
 
 Since the audio and LiDAR datasets are to heavy to be uploaded to the repository they can be downloaded from the following links:
 
