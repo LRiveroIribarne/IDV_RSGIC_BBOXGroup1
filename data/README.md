@@ -31,7 +31,7 @@ Since the audio and LiDAR datasets are to heavy to be uploaded to the repository
 1. [AudioMoths data](https://filesender.surf.nl/?s=download&token=60f94db8-51c9-4e57-bc8d-d11d29f8c507)
 2. [LiDAR point clouds data](https://filesender.surf.nl/?s=download&token=4cdf413d-af36-4fcd-8eab-d3ca4acb10d7)
 
-The download links are available until 20-07-2023. After that you could write us (lucas.riveroiribarne@wur.nl) to ask for the data :)
+The download links are available until 20-07-2023. After that you could write us (pdgolunska@gmail.com) to ask for the data :)
 
 After downloading the data the folder structure will be the following:
 
