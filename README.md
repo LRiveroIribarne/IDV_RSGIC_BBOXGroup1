@@ -37,3 +37,5 @@ The "documentation" folder contains the case description and the data management
 ## License
 
 The code and resources in this repository are licensed under the [GNU v3 License](https://www.gnu.org/licenses/gpl-3.0.html). Feel free to use and adapt the code and resources to create your own biodiversity walking experiences or other related projects
+
+![Wisdom tree.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/996ac93ab829d7da27ec95c4c08d9110c437383c/imgs/wisdom_tree.png) Wisdom tree.
