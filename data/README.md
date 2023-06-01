@@ -22,7 +22,8 @@ The data used in this project consisted in:
 	-	AudioMoths coordinates
 	-	LiDAR scaners sites
 	-	Point of interest
-	-	
+	-	Route
+		
 ![Sites map.](https://github.com/LRiveroIribarne/IDV_RSGIC_BBOXGroup1/blob/19ea7b354e19487c91ab2925ec59605304a8512a/imgs/sites_map.png)Sites map.
 
 Since the audio and LiDAR datasets are to heavy to be uploaded to the repository they can be downloaded from the following links:
